@@ -1,0 +1,13 @@
+1. Labeled data is a dataset where each instance or example is accompanied by a label or target variable that represents the desired output or classification. These labels are typically provided by human experts or obtained through a reliable process.
+2. Unlabeled data is a dataset where the instances or examples do not have any associated labels or target variables. The data consists only of input features, without any corresponding output or classification.
+3. Structured data refers to data that is organized and formatted in a predefined manner, typically in the form of tables or databases with rows and columns. This type of data is suitable for traditional machine learning algorithms that require well-defined features and labels. The following are types of structured data.
+4. Tabular data: This includes data stored in spreadsheets, databases, or CSV files, with rows representing instances and columns representing features or attributes.
+5. Time-series data: This type of data consists of sequences of values measured at successive points in time, such as stock prices, sensor readings, or weather data.
+6. Unstructured data is data that lacks a predefined structure or format, such as text, images, audio, and video. This type of data requires more advanced machine learning techniques to extract meaningful patterns and insights.
+7. Text data: This includes documents, articles, social media posts, and other textual data.
+8. mage data: This includes digital images, photographs, and video frames.
+9. In supervised learning, the algorithms are trained on labeled data. The goal is to learn a mapping function that can predict the output for new, unseen input data.
+10. Unsupervised learning refers to algorithms that learn from unlabeled data. The goal is to discover inherent patterns, structures, or relationships within the input data.
+11. In reinforcement learning, the machine is given only a performance score as guidance and semi-supervised learning, where only a portion of training data is labeled. Feedback is provided in the form of rewards or penalties for its actions, and the machine learns from this feedback to improve its decision-making over time.
+12. After the model has been trained, it is time to begin the process of using the information that a model has learned to make predictions or decisions. This is called inferencing.
+There are two main types of inferencing in machine learning: batch inferencing and real-time inferencing.
