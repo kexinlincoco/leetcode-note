@@ -1,3 +1,1 @@
-        for (int[] arr : d) {
-            Arrays.fill(arr, 1);
-        }
+![LC152](./Images/lc152.png)

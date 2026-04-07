@@ -105,3 +105,7 @@
     SELECT ... FOR UPDATE、UPDATE、DELETE、INSERT等都会加锁。普通SELECT在可重复读隔离级别下也会加间隙锁防止幻读。
 52. 手撕：等概率输出0或1（不能使用Random）
     可利用系统时间戳奇偶性，或通过ThreadLocalRandom的底层伪随机数实现。若不允许任何随机类，可借助硬件噪声或UUID哈希取模。
+53. cache:
+    LRU: least recently used
+    LFU: least frequently used
+54. TTL: time to live
